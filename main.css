@@ -1,0 +1,140 @@
+/* comments*/
+
+/* can have multiple things the same style eg h1,p{}*/
+/* to add google fonts add url and then access with link (embed)
+
+*{
+       background-color: white        /*can set basic site style and overwrite sections*/
+*
+
+
+#pokemon-card-box{
+    opacity:0.9;
+    background-color:white;
+    color:rgb(20, 16, 16);          
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0px;
+    border-top:0px;
+    border-bottom:0px;
+    border-left:0px;
+    border-right:0px;
+    border-style:groove;
+    border-color:black
+
+}
+
+div{
+    opacity:0.9;
+    background-color:white;
+    color:rgb(20, 16, 16);          
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0px;
+    border-top:0px;
+    border-bottom:0px;
+    border-left:0px;
+    border-right:0px;
+    border-style:groove;
+    border-color:black
+    
+}
+   
+
+h1{
+    background-color: rgba(57, 10, 224, 0.87);
+    color:seashell;
+    font-size: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-top:px5;
+    border-bottom:px5;
+    border-left:px5;
+    border-right:px5;
+    border-style:groove;
+    border-color:black
+}
+
+h2{
+    background-color: rgb(0, 119, 255);
+    color: rgba(0, 0, 0, 0.007);
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-top:px5;
+    border-bottom:px5;
+    border-left:px5;
+    border-right:px5;
+    border-style:groove;
+    border-color:black
+}
+h3{
+    background-color: rgb(237, 252, 36);
+    color:rgb(14, 11, 9);
+    font-size: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-top:px5;
+    border-bottom:px5;
+    border-left:px5;
+    border-right:px5;
+    border-style:groove;
+    border-color:black
+}   
+
+p{
+    opacity:0.9;
+    background-color:white;
+    color:rgb(20, 16, 16);          
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0px;
+    border-top:5px;
+    border-bottom:5px;
+    border-left:5px;
+    border-right:5px;
+    border-style:groove;
+    border-color:black
+    
+}
+.large {
+    font-size: 50px;   /*create own class in css*/
+    }
+
+    .flex_container {
+        display: flex;
+        flex-direction: row;
+        justify-content:space-evenly ;  
+    }
+#navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: darkgrey;
+    border-color: darkslategray;
+    border: 5px;
+}
+
+
+    #container1{
+    background-color: white;
+    color:black;
+    font-size: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:start;
+    justify-content: space-evenly;
+}   
+}
+
+#container2{
+    background-color: chartreuse;
+
+}
+
+#container3{
+    background-color: crimson;
+}
+
